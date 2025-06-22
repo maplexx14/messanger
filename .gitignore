@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+
+
+# Node.js
+node_modules/
+build/
+dist/
+.npm/
+.npmrc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Uploads
+app/routers/uploads/
+!app/routers/uploads/.gitkeep
+
+# Ignore frontend build output
+frontend/build/ 

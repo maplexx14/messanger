@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Node
+node_modules/
+npm-debug.log
+.npm
+.env
+
+# Frontend build artifacts
+frontend/build
+frontend/node_modules
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo 
