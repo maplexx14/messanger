@@ -14,6 +14,14 @@ A real-time chat application built with FastAPI, PostgreSQL, and a modern fronte
 
 ## Setup
 
+### Docker
+
+```bash
+docker-compose up
+```
+
+
+### Native
 1. Create a virtual environment:
 ```bash
 python -m venv venv
