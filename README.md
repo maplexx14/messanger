@@ -1,7 +1,26 @@
 # Telegram-like Chat Application
 
+
+* [Screenshots](#screens)  
+* [Features](#features)  
+* [Setup](#setup)  
+* [Structure](#struct)  
+
+
+<a name="screens"><h2>Screenshots</h2></a>
+![screen](https://github.com/maplexx14/messanger/raw/main/img/chat_dark.png)
+![screen](https://github.com/maplexx14/messanger/raw/main/img/chat_set.png)
+![screen](https://github.com/maplexx14/messanger/raw/main/img/reg.png)
+![screen](https://github.com/maplexx14/messanger/raw/main/img/chat_white.png)
+![screen](https://github.com/maplexx14/messanger/raw/main/img/whiteth.png)
+![screen](https://github.com/maplexx14/messanger/raw/main/img/reg.png)
+
+
 A real-time chat application built with FastAPI, PostgreSQL, and a modern frontend.
 
+
+
+<a name="screens"></a>
 ## Features
 
 - Real-time messaging
@@ -12,6 +31,9 @@ A real-time chat application built with FastAPI, PostgreSQL, and a modern fronte
 - File sharing
 - Modern UI similar to Telegram
 
+
+
+<a name="setup"></a>
 ## Setup
 
 ### Docker
@@ -51,6 +73,8 @@ npm install
 npm run dev
 ```
 
+
+<a name="struct"></a>
 ## Project Structure
 
 ```
